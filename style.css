@@ -1,9 +1,10 @@
+
 body {
-  background-color: #444444;
+  background-color: #7F0015;
   color: #dddddd;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
- 
+ text-shadow: 1px 2px #670011;
 }
 
 .exp-header {
@@ -13,4 +14,14 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1)
 
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 5px;
+  width: 120px;
+  vertical-align: center;
+}
+.fa-instagram {
+  color: white;
 }
